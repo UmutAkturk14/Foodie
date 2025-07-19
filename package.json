@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.2.0",
   "type": "module",
-  "homepage": "https://umutakturk14.github.io/Quokka-JS/",
+  "homepage": "https://umutakturk14.github.io/Foodie/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
